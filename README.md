@@ -1,13 +1,16 @@
-# Awesome Vision-Language Compositionality
+# <div align="center">Awesome Vision-Language Compositionality</div>
 
+<div align="center">
+  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href=""> <img src="https://img.shields.io/github/stars/ytaek-oh/awesome-vl-compositionality?style=flat-square&logo=github" alt="GitHub stars"></a>
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ytaek-oh/awesome-vl-compositionality/graphs/commit-activity)
 
+</div>
 
-Welcome to **Awesome Vision-Language Compositionality**, an extensively curated collection of research papers and resources on compositional understanding in vision-language models (VLMs). It focuses on  models, datasets, and evaluation frameworks for compositional reasoning in VLMs.
-
+Welcome to **Awesome Vision-Language Compositionality**, an extensively curated collection of research papers and resources on compositional understanding in vision-language models (VLMs). 
 This repository will serve as a comprehensive resource to keep up to date with the latest advancements and to provide an overarching view of the vision-language compositionality landscape. 
 
 We'd welcome contributions and feedback to continuously improve and expand this collection. 😊 <br />
