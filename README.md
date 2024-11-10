@@ -82,6 +82,10 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 *Paola Cascante-Bonilla, Yu Hou, Yang Trista Cao, Hal Daumé III, Rachel Rudinger.* <br />
 [[Paper](https://arxiv.org/abs/2410.22315)]  [[Code](https://github.com/pcascanteb/cece-vlm)]
 
+🤖 **Locality Alignment Improves Vision-Language Models.** [arXiv, 2024]. <br />
+*Ian Covert, Tony Sun, James Zou, Tatsunori Hashimoto.* <br />
+[[Paper](https://arxiv.org/abs/2410.11087)]  [[Code](https://github.com/iancovert/locality-alignment)]
+
 🗂️ **VL-GLUE: A Suite of Fundamental yet Challenging Visuo-Linguistic Reasoning Tasks.** *(VL-GLUE).* [arXiv, 2024]. <br />
 *Shailaja Keyur Sampat, Mutsumi Nakamura, Shankar Kailas, Kartik Aggarwal, Mandy Zhou, Yezhou Yang, Chitta Baral.* <br />
 [[Paper](https://arxiv.org/abs/2410.13666)]  [[Code](https://github.com/shailaja183/VL-GLUE)]
