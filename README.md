@@ -138,6 +138,10 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 *Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie.* <br />
 [[Paper](https://arxiv.org/abs/2401.06209)] [[Code](https://github.com/tsb0601/MMVP)] [[HF Dataset](https://huggingface.co/MMVP)]
 
+🤖 **Compositional Chain-of-Thought Prompting for Large Multimodal Models.** *(CCoT).* [CVPR, 2024]. <br />
+*Chancharik Mitra, Brandon Huang, Trevor Darrell, Roei Herzig.* <br />
+[[Paper](https://arxiv.org/abs/2311.17076)] [[Code](https://github.com/chancharikmitra/CCoT)]
+
 🗂️ **A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions.** *(DCI).* [CVPR, 2024]. <br />
 *Jack Urbanek, Florian Bordes, Pietro Astolfi, Mary Williamson, Vasu Sharma, Adriana Romero-Soriano.* <br />
 [[Paper](https://arxiv.org/abs/2404.00419)] [[Code](https://github.com/facebookresearch/DCI)]
