@@ -94,6 +94,10 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 *Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, Jiebo Luo.* <br />
 [[Paper](https://arxiv.org/abs/2410.09733v1)]  [[Code](https://github.com/hanghuacs/MMComposition)]  
 
+🤖 **Compositional Entailment Learning for Hyperbolic Vision-Language Models.** *(HyCoCLIP).* [arXiv, 2024]. <br />
+*Avik Pal, Max van Spengler, Guido Maria D'Amely di Melendugno, Alessandro Flaborea, Fabio Galasso, Pascal Mettes.* <br />
+[[Paper](https://arxiv.org/abs/2410.06912)]
+
 🗂️🤖 **The Hard Positive Truth about Vision-Language Compositionality.** *(HP+HN).* [ECCV, 2024]. <br />
 *Amita Kamath, Cheng-Yu Hsieh, Kai-Wei Chang, Ranjay Krishna.* <br />
 [[Paper](https://amitakamath.github.io/oversensitivity.pdf)]  [[Code](https://github.com/amitakamath/hard_positives)]
