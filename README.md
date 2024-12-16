@@ -112,7 +112,11 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 
 🗂️🤖 **Evaluating Text-to-Visual Generation with Image-to-Text Generation.** *(VQAScore).* [ECCV, 2024]. <br />
 *Zhiqiu Lin, Deepak Pathak, Baiqi Li, Jiayao Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan.* <br />
-[[Code](https://github.com/linzhiqiu/t2v_metrics)]  [[Model](https://github.com/linzhiqiu/CLIP-FlanT5)]  [[HF Dataset](https://huggingface.co/datasets/BaiqiL/GenAI-Bench)]
+[[Paper](https://arxiv.org/abs/2404.01291)]  [[Code](https://github.com/linzhiqiu/t2v_metrics)]  [[Model](https://github.com/linzhiqiu/CLIP-FlanT5)]  [[HF Dataset](https://huggingface.co/datasets/BaiqiL/GenAI-Bench)]
+
+🗂️⚖️ **FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction.** *(FINEMATCH).* [ECCV, 2024]. <br />
+*Hang Hua, Jing Shi, Kushal Kafle, Simon Jenni, Daoan Zhang, John Collomosse, Scott Cohen, Jiebo Luo.* <br />
+[[Paper](https://arxiv.org/abs/2404.14715)]  [[Code](https://github.com/hanghuacs/finematch)]
 
 🗂️ **Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation.** *(D3).*  [ECCVW, 2024]. <br />
 *Manu Gaur, Darshan Singh S, Makarand Tapaswi.* <br />
