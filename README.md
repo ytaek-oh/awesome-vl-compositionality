@@ -46,6 +46,22 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 
 ## Compositionality in Image-Text Understanding
 
+🤖 **Enhancing Fine-Grained Vision-Language Pretraining with Negative Augmented Samples.** *(NAS).* [AAAI, 2025]. <br />
+*Yeyuan Wang, Dehong Gao, Lei Yi, Linbo Jin, Jinxia Zhang, Libin Yang, Xiaoyan Cai.* <br />
+[[Paper](https://arxiv.org/abs/2412.10029)]
+
+🤖 **MASS: Overcoming Language Bias in Image-Text Matching.** *(MASS).* [AAAI, 2025]. <br />
+*Jiwan Chung, Seungwon Lim, Sangkyu Lee, Youngjae Yu.* <br />
+[[Paper](https://arxiv.org/abs/2501.11469)]
+
+🗂️⚖️ **Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The answer is No!** *(TemporalVQA).* [arXiv, 2025]. <br />
+*Mohamed Fazli Imam, Chenyang Lyu, Alham Fikri Aji.* <br />
+[[Paper](https://arxiv.org/abs/2501.10674)]  [[HF Dataset](https://huggingface.co/datasets/fazliimam/temporal-vqa)]
+
+🗂️🤖 **Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP.** *(NegationCLIP).* [arXiv, 2025]. <br />
+*Junsung Park, Jungbeom Lee, Jongyoon Song, Sangwon Yu, Dahuin Jung, Sungroh Yoon.* <br />
+[[Paper](https://arxiv.org/abs/2501.10913)]
+
 🗂️⚖️ **Vision-Language Models Do Not Understand Negation.** *(NegBench).* [arXiv, 2025]. <br />
 *Kumail Alhamoud, Shaden Alshammari, Yonglong Tian, Guohao Li, Philip Torr, Yoon Kim, Marzyeh Ghassemi.* <br />
 [[Paper](https://arxiv.org/abs/2501.09425)]  [[Code](https://github.com/m1k2zoo/negbench)]
