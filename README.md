@@ -66,6 +66,10 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 *Kumail Alhamoud, Shaden Alshammari, Yonglong Tian, Guohao Li, Philip Torr, Yoon Kim, Marzyeh Ghassemi.* <br />
 [[Paper](https://arxiv.org/abs/2501.09425)]  [[Code](https://github.com/m1k2zoo/negbench)]
 
+🗂️⚖️ **NEMO: Can Multimodal LLMs Identify Attribute-Modified Objects?** *(NEMO).* [arXiv, 2024]. <br />
+*Jiaxuan Li, Junwen Mo, MinhDuc Vo, Akihiro Sugimoto, Hideki Nakayama.* <br />
+[[Paper](https://arxiv.org/abs/2411.17794)]  [[Code](https://github.com/Jiaxuan-Li/NEMO)]
+
 🗂️🤖 **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs.** *(CV-Bench).* [NeurIPS, 2024]. <br />
 *Shengbang Tong, Ellis Brown, Penghao Wu, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie.* <br />
 [[Paper](https://arxiv.org/abs/2406.16860)] [[Code](https://github.com/cambrian-mllm/cambrian)] [[HF Dataset](https://huggingface.co/datasets/nyu-visionx/CV-Bench)]
