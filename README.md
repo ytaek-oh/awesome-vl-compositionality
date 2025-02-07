@@ -54,6 +54,11 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 *Jiwan Chung, Seungwon Lim, Sangkyu Lee, Youngjae Yu.* <br />
 [[Paper](https://arxiv.org/abs/2501.11469)]
 
+🗂️🤖 **CLIP Behaves like a Bag-of-Words Model Cross-modally but not Uni-modally.** *(LABCLIP).* [arXiv, 2025]. <br />
+*Darina Koishigarina, Arnas Uselis, Seong Joon Oh.* <br />
+[[Paper](https://arxiv.org/abs/2502.03566)]  [[Code](https://github.com/kdariina/CLIP-not-BoW-unimodally)]
+
+
 🗂️⚖️ **Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The answer is No!** *(TemporalVQA).* [arXiv, 2025]. <br />
 *Mohamed Fazli Imam, Chenyang Lyu, Alham Fikri Aji.* <br />
 [[Paper](https://arxiv.org/abs/2501.10674)]  [[HF Dataset](https://huggingface.co/datasets/fazliimam/temporal-vqa)]
