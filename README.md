@@ -54,6 +54,10 @@ We'd welcome contributions and feedback to continuously improve and expand this 
 *Jiwan Chung, Seungwon Lim, Sangkyu Lee, Youngjae Yu.* <br />
 [[Paper](https://arxiv.org/abs/2501.11469)]
 
+🗂️⚖️ **PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Multimodal Models.** *(PulseCheck457).* [arXiv, 2025]. <br />
+*Xingrui Wang, Wufei Ma, Tiezheng Zhang, Celso M de Melo, Jieneng Chen, Alan Yuille* <br />
+[[Paper](https://arxiv.org/abs/2502.08636)]
+
 🗂️🤖 **CLIP Behaves like a Bag-of-Words Model Cross-modally but not Uni-modally.** *(LABCLIP).* [arXiv, 2025]. <br />
 *Darina Koishigarina, Arnas Uselis, Seong Joon Oh.* <br />
 [[Paper](https://arxiv.org/abs/2502.03566)]  [[Code](https://github.com/kdariina/CLIP-not-BoW-unimodally)]
